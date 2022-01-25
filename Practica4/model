@@ -1,0 +1,8 @@
+c PicoSAT SAT Solver Version 965
+c Copyright (c) 2006 - 2014 Armin Biere JKU Linz
+c gcc -g -O2 -fdebug-prefix-map=/build/picosat-jdRevn/picosat-965=. -fstack-protector-strong -Wformat -Werror=format-security
+c
+c using 2 as default phase
+c
+c parsing infile.cnf
+c parsed header 'p cnf 5300 249349'
